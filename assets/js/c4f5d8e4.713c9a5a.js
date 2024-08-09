@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwflocker_docs=self.webpackChunkwflocker_docs||[]).push([[634],{192:(c,e,o)=>{function s(){console.log("wow")}o.r(e),o.d(e,{default:()=>s})}}]);
